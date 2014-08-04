@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimeZoneAlarm</string>
+    <string name="app_timezone">Select Time Zone</string>
+    
+  	<!-- Menu Zone -->
+    <string name="action_new">New Alarm</string>
+    <string name="action_about">About Me</string>
+    
+    <!-- Column Zone -->
+    <string name="column_title_hint">Label</string>
+    <string name="column_switcher_on">On</string>
+    <string name="column_switcher_off">Off</string>
+    <string name="column_alarm_time">Time</string>
+    <string name="column_alarm_timezone">TimeZone</string>
+    
+    <!-- Notification -->
+    <string name="notification_title">TimeZone Alarm</string>
+    <string name="notification_msg">Time to WAKE UP</string>
+    <string name="notification_msg_2"></string>
+    
+</resources>
